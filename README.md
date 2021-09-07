@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Corelli, Discord bot that interacts with data from Politics & War, a browser game.
+- 🔭 I’m currently working on Corelli, a Discord bot that interacts with data from Politics & War, a browser game.
 
 - 🌱 I’m currently learning Java, MySQL, and Spring 
 
