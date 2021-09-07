@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "175px" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" alt="cover" />
+<img width="100%" height = "175px" src="https://wallpaperaccess.com/full/3260536.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
