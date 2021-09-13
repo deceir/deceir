@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on Corelli, a Discord bot that interacts with data from Politics & War, a browser game.
 
-- 🌱 I’m currently learning Java, MySQL, and Spring 
+- 🌱 I’m currently learning Java, MySQL, & Spring 
 
 - 👯 I’m looking to collaborate on interesting full-stack projects 
 
