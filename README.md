@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "175px" src="https://wallpaperaccess.com/full/3260536.jpg" alt="cover" />
+<img width="100%" height = "175px" src="https://www.evidencebasedmentoring.org/wp-content/uploads/2018/07/programming-1857236_1280_banner.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
