@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on Corelli, a Discord bot, & a text-based browser game.
 
-- 🌱 I’m currently learning Java, MySQL, & Spring.
+- 🌱 I’m currently learning more about utilizing Spring.
 
 - 👯 I’m looking to collaborate on interesting full-stack projects.
 
