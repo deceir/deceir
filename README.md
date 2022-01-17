@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Corelli, a Discord bot, & a text-based browser game.
+- 🔭 I’m currently working on [Etheirys](https://github.com/deceir/etheirys), a Discord bot, & a text-based browser game.
 
 - 🌱 I’m currently learning more about the C family of languages.
 
