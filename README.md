@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Etheirys](https://github.com/deceir/etheirys), a Discord bot, & a text-based browser game.
 
-- 🌱 I’m currently learning more about the C family of languages.
+- 🌱 I’m currently learning the Rust programming language..
 
 - 👯 I’m looking to collaborate on interesting full-stack projects.
 
